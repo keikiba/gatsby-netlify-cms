@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'Find our own way'
-image: /img/top.png
+image: /img/top.jpg
 heading: Find our own way
 subheading: Making our life happier using technologies
 description: >-
