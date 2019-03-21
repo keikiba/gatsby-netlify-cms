@@ -1,9 +1,9 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
+title: 'Find our own way'
 image: /img/top.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Find our own way
+subheading: Making our life happier using technologies
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
