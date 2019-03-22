@@ -2,9 +2,9 @@ var proxy = require("http-proxy-middleware")
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Keikiba site',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Business profile website that is built with Gatsby, updated via Netlify CMS, and published on Netlify. JAMstack, GitHub, CI and CDN distribution powered by Netlify platform.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
