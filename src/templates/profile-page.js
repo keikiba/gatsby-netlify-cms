@@ -4,12 +4,28 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const ProfilePageTemplate = ({ title, content, contentComponent }) => {
+export const ProfilePageTemplate = ({ image, title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
     <section className="section section--gradient">
       <div className="container">
+        <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/sourcecode.jpg')`, 
+          }}
+        >
+          <h1
+            className="has-text-weight-bold is-size-1"
+            style={{
+              color: 'white',
+              padding: '1rem',
+            }}
+          >
+            Profile
+                </h1>
+        </div>
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">

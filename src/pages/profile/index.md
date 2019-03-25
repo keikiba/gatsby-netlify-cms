@@ -1,17 +1,41 @@
 ---
 templateKey: profile-page
-title: Profile
+title: Technology Portfolio
+image: /img/top.jpg
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Backend 
+* Apache, Nginx, Tomcat 
+* MySQL, memcached, MongoDB
+* fluentd, kafka
+* Framework - Java/Spring Boot, PHP/cakePHP/Laravel, Python/Django
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Frontend 
+* JavaScript - React, Vue, Bootstrap, jQuery, D3
+* HTML5, CSS3
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Language
+* Java, JavaScript, PHP, Python, Perl, C, B-shell
 
+### Infrastructre
+* Docker, VMware
+* Ansible
+* Nagios
+* Linux
 
+# Topics I am interested in
+
+As seen in these days the demand for proper handlings of big- and streamed data increases. The more complex analytical processings are implemented as services in the backend, the more performance requirement becomes more strict. Where concurrency, performance, safety and scalability will be the keys in the development, the use of a statically typed functional programming language will play more important roles. Further agility and continuity in the development and deployment phases will 
+be underpinned by broader orchestration mechanisms.   
+
+### Backend
+  - Machine learning in Python
+  - Functional programming in Scala
+
+### Infrastructure
+  - Container orchestration by Kubernetes
+  - Distributed processing through Spark
+
+### Frontend
+  - Reactive programming with React + Flux/Redux
+ 
