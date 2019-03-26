@@ -1,13 +1,13 @@
 ---
 templateKey: 'index-page'
-title: 'Find your own way'
+title: 'kei kiba'
 image: /img/top.jpg
 heading: Find our own way
 subheading: Making our life happier using technologies
 description: >-
   A full stack developer, having professional marketing abilities and customer oriented mind.  
 mainpitch:
-  title: keikiba
+  title: kei kiba
   description: >
       A full stack developer, having professional marketing abilities and customer oriented mind.  
 intro:
