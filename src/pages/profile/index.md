@@ -1,17 +1,21 @@
 ---
 templateKey: profile-page
 title: Technology Portfolio
-image: /img/top.jpg
+image: /img/sourcecode.jpg
 ---
 
 ### Backend 
-* Apache, Nginx, Tomcat 
-* MySQL, memcached, MongoDB
-* fluentd, kafka
+* Web - Apache, Nginx, Tomcat 
+* DB - MySQL, memcached, MongoDB
+* Data processing - fluentd, kafka
 * Framework - Java/Spring Boot, PHP/cakePHP/Laravel, Python/Django
 
 ### Frontend 
-* JavaScript - React, Vue, Bootstrap, jQuery, D3
+* JavaScript, TypeScript
+* Framework - Vue, Angular
+* UI and Component - Bootstrap, React
+* Library - jQuery, D3
+* Static Site Generator - Gatsby
 * HTML5, CSS3
 
 ### Language
