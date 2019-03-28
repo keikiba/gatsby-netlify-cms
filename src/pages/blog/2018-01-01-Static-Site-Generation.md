@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
-title: Static Site
+title: Static site
 date: 2018-01-01T15:04:10.000Z
 description: >-
   Static Site Generation by Gatsby - since the cooperation of Gatsby and Netlify
   CMS introduced very impressive easiness in static site creation, I gave my
-  first try. 
+  first try.  Typically, a website with a few fixed contents and regularly
+  updated pages in a fixed format (such as blog posts) well suited this way. 
 tags:
   - Static Site Generation
   - CSS
@@ -37,3 +38,7 @@ By accessing '/admin' Netlify CMS provides an intuitive authoring page. Fixed pa
     $ gatsby develop 
 
 Templates consists of components, which are written in Typical JSX. 
+
+### Modern way of sites production
+
+Typically, a website with relatively a few fixed contents and many text based regularly updated pages in a fixed format (such as blog posts) well suited this way. Need to understand JSX if you need a customization of templates. It is not as easy as expected. Need to untangle the mixture of React, JSX, CSS framework if used, and other JavaScript libraries if used.    
