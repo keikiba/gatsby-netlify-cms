@@ -39,6 +39,6 @@ By accessing '/admin' Netlify CMS provides an intuitive authoring page. Fixed pa
 
 Templates consists of components, which are written in Typical JSX. 
 
-### Modern way of sites production
+### Modern way of static sites production
 
-Typically, a website with relatively a few fixed contents and many text based regularly updated pages in a fixed format (such as blog posts) well suited this way. Need to understand JSX if you need a customization of templates. It is not as easy as expected. Need to untangle the mixture of React, JSX, CSS framework if used, and other JavaScript libraries if used.    
+Typically, a website with relatively a few fixed contents and many text based regularly updated pages in a fixed format (such as blog posts) well suits this way. In case you would need to customize templates, it would not be as easy as expected. In general, you need to untangle the mixture of React, JSX, CSS framework, and other JavaScript libraries. 
